@@ -1,4 +1,4 @@
-npm(4) -- a JavaScript package manager
+npm(5) -- a JavaScript package manager
 ==============================
 
 [![Build Status](https://img.shields.io/travis/npm/cli/latest.svg)](https://travis-ci.org/npm/cli)
